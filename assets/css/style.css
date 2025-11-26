@@ -60,6 +60,12 @@ figcaption {
   color: #999999;
 }
 
+.videocap {
+  text-align: center;
+  padding: 0.95em;
+  color: #999999;
+}
+
 .featured {
   font-weight: bold;
   color: #b5460f;
