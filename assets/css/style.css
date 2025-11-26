@@ -1,0 +1,94 @@
+/* foglio di stile per l'esercizio U1 W1 D3 CSS */
+
+body {
+  font-family: "Gelasio", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+header {
+  text-align: center;
+}
+
+header img {
+  padding: 0.6rem;
+}
+
+.head1 {
+  border-top: 1px solid #ffd877;
+  padding: 1rem;
+  background-color: #fdfbf1;
+  color: #004d4c;
+  font-size: 0.9em;
+  margin-bottom: 2rem;
+}
+
+#headbold {
+}
+
+main {
+  max-width: 600px;
+  width: 80vw;
+  margin-inline: auto;
+}
+
+h1 {
+  font-size: 1.9em;
+  text-align: center;
+  font-weight: bold;
+}
+
+#subt {
+  font-size: 0.9em;
+  font-weight: 600;
+  letter-spacing: -0.8px;
+}
+
+#impr {
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px #dedede;
+}
+
+figure {
+  margin: 0;
+}
+
+figcaption {
+  text-align: center;
+  padding: 0.95em;
+  color: #999999;
+}
+
+.featured {
+  font-weight: bold;
+  color: #b5460f;
+  border-left: 1px solid #ffd877;
+  padding-left: 1em;
+}
+
+a {
+  color: #107777;
+}
+
+h2 {
+  font-size: 1.2em;
+  text-align: left;
+  font-weight: bold;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #c4f3f2;
+  margin-bottom: 1 rem;
+}
+
+h3 {
+  font-size: 1em;
+}
+
+ul {
+  line-height: 2em;
+  padding-bottom: 0.1em;
+}
+
+.recipe {
+  margin-top: 3em;
+}
